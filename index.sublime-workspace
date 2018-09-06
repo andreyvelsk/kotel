@@ -1,0 +1,1281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sens",
+				"sensor_num"
+			],
+			[
+				"se",
+				"sensor_num"
+			],
+			[
+				"sql",
+				"sql_count"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ses",
+				"sensorvalue"
+			],
+			[
+				"V",
+				"VueRouter"
+			],
+			[
+				"conf",
+				"confirmPassword"
+			],
+			[
+				"socia",
+				"socialList"
+			],
+			[
+				"defa",
+				"defaultSocial"
+			],
+			[
+				"visi",
+				"visibleModifier"
+			],
+			[
+				"dela",
+				"delayModifier"
+			],
+			[
+				"mod",
+				"modifiers"
+			],
+			[
+				"font",
+				"fontModifier"
+			],
+			[
+				"bind",
+				"binding"
+			],
+			[
+				"car",
+				"carName"
+			],
+			[
+				"Ca",
+				"carName"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"add",
+				"addMessages"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"fade",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"fad",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mrign",
+				"margin-bottom"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"opac",
+				"opacity\topacity()"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"cont",
+				"content\t@content"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fle",
+				"flex-basis"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"change",
+				"changeMenuStatus"
+			],
+			[
+				"content",
+				"justify-content"
+			],
+			[
+				"me",
+				"menu"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"menu",
+				"menu_link"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"remov",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"get_quer",
+				"get_queried_object"
+			],
+			[
+				"get_templa",
+				"get_template_part"
+			],
+			[
+				"wp_reset",
+				"wp_reset_postdata"
+			],
+			[
+				"the_c",
+				"the_content"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"_",
+				"_btn"
+			],
+			[
+				"to",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"c",
+				"click\t.click()"
+			],
+			[
+				"top",
+				"top-nav_menu"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"footer",
+				"footer-text"
+			],
+			[
+				"bod",
+				"body-bg"
+			],
+			[
+				"direc",
+				"directions-blocks"
+			],
+			[
+				"a",
+				"active_link"
+			],
+			[
+				"jus",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"justify",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"col-s",
+				"col-sm-10 \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"col-1 \tBootstrap 4 Class"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"fl",
+				"flex-start\tjustify-content"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"f",
+				"flex-start\tjustify-content"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1857,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "layouts/scripts.html",
+			"settings":
+			{
+				"buffer_size": 241,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "report.php",
+			"settings":
+			{
+				"buffer_size": 1650,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/getchartdata.js",
+			"settings":
+			{
+				"buffer_size": 349,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "getchartdata.php",
+			"settings":
+			{
+				"buffer_size": 619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/andrey/www/home.ru/test/js/main.js",
+			"settings":
+			{
+				"buffer_size": 904,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "getjson.php",
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "getsmoke.php",
+			"settings":
+			{
+				"buffer_size": 169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dbconnect.php",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "add.php",
+			"settings":
+			{
+				"buffer_size": 466,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pumpon.php",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: ",
+				"Snippet: small"
+			],
+			[
+				"start",
+				"Snippet: starter"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"boot",
+				"Bookmarks: Toggle"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/andrey/www/home.ru/kotel",
+		"/home/andrey/www/home.ru/kotel/assets",
+		"/home/andrey/www/home.ru/kotel/assets/js",
+		"/home/andrey/www/home.ru/test",
+		"/home/andrey/www/home.ru/test/js"
+	],
+	"file_history":
+	[
+		"/home/andrey/www/home.ru/kotel/assets/css/custom.css",
+		"/tmp/xa-tOCm5g/home.sql",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router1/src/pages/Cars.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router1/src/App.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router1/src/pages/Home.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router1/src/pages/Gamma.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router1/src/routes.js",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router1/src/pages/Car.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router1/index.html",
+		"/home/andrey/www/home.ru/nodejs/vue-project-validate/webpack.config.js",
+		"/home/andrey/www/home.ru/nodejs/vue-project-directives/src/App.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-validate/package.json",
+		"/home/andrey/www/home.ru/nodejs/vue-project-validate/index.html",
+		"/home/andrey/www/home.ru/nodejs/vue-project-validate/src/App.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router/src/App.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-validate/src/main.js",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router/src/routes.js",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router/src/main.js",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router/src/pages/Home.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project-router/src/pages/Cars.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project/src/App.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project2/src/main.js",
+		"/home/andrey/www/home.ru/nodejs/vue-project2/src/color.js",
+		"/home/andrey/www/home.ru/nodejs/vue-project2/src/App.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project2/README.md",
+		"/home/andrey/www/home.ru/nodejs/vue-project/src/main.js",
+		"/home/andrey/www/home.ru/nodejs/vue-project/src/Car.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project/src/Counter.vue",
+		"/home/andrey/www/home.ru/nodejs/vue-project/index.html",
+		"/home/andrey/www/home.ru/test/js/main.js",
+		"/home/andrey/www/home.ru/test/send.php",
+		"/home/andrey/www/home.ru/test/dbconnect.php",
+		"/home/andrey/www/home.ru/test/getmessages.php",
+		"/home/andrey/www/home.ru/test/sass/style.sass",
+		"/home/andrey/www/home.ru/test/index.php",
+		"/home/andrey/www/home.ru/test/sass/_media.sass",
+		"/home/andrey/Загрузки/testhhm.sql",
+		"/home/andrey/www/home.ru/resume/resumestatic/index.html",
+		"/home/andrey/www/home.ru/test/css/style.css",
+		"/var/www/stroyinvest.ru/static/css/main.sass",
+		"/home/andrey/www/home.ru/sendvk/test/sendform.php",
+		"/home/andrey/www/home.ru/resume/resumestatic/send.php",
+		"/home/andrey/www/home.ru/resume/resumestatic/sass/style.sass",
+		"/home/andrey/www/home.ru/kotel/index.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront-child/functions.php",
+		"/home/andrey/www/tinashop/wp-content/uploads/2018/08/logo.svg",
+		"/home/andrey/www/home.ru/resume/resumestatic/js/main.js",
+		"/home/andrey/www/home.ru/resume/resumestatic/sendform.php",
+		"/home/andrey/www/home.ru/resume/resumestatic/css/style.css",
+		"/home/andrey/www/home.ru/kotel/pumpon.php",
+		"/home/andrey/www/home.ru/sendvk/market/addfromcsv.php",
+		"/home/andrey/www/home.ru/resume/resumestatic/sass/koala-config.json",
+		"/home/andrey/www/home.ru/sendvk/market/number",
+		"/home/andrey/www/home.ru/sendvk/market/addtomarket.php",
+		"/home/andrey/www/home.ru/sendvk/test/uploadphotomarket.php",
+		"/home/andrey/www/home.ru/sendvk/test/uploadphoto.php",
+		"/home/andrey/www/home.ru/sendvk/test/getphoto.php",
+		"/home/andrey/www/home.ru/sendvk/market/uploadphoto.php",
+		"/home/andrey/www/home.ru/sendvk/market/uploadphotomarket.php",
+		"/home/andrey/www/home.ru/sendvk/test/token_photo",
+		"/home/andrey/www/home.ru/sendvk/market/token",
+		"/home/andrey/www/home.ru/sendvk/sendform.php",
+		"/home/andrey/www/home.ru/sendvk/market/token.php",
+		"/home/andrey/home.ru/jquery/index.html",
+		"/media/sf_andrey/pi/home/prkotel/script.sh",
+		"/home/andrey/home.ru/sendvk/sendform.php",
+		"/media/sf_andrey/pi/html/add.php",
+		"/home/andrey/home.ru/sendvk/test/sendform.php",
+		"/home/andrey/home.ru/sendvk/test/getphoto.php",
+		"/home/andrey/home.ru/sendvk/test/uploadphoto.php",
+		"/home/andrey/Загрузки/валя",
+		"/home/andrey/home.ru/sendvk/token.php",
+		"/media/sf_andrey/pi/html/index.php",
+		"/media/sf_andrey/pi/html/getjson.php",
+		"/media/sf_andrey/file_formvk/sendform.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/header.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront-child/style.css",
+		"/media/sf_andrey/file_formvk/token.php",
+		"/home/andrey/home.ru/resumestatic/index.html",
+		"/home/andrey/home.ru/resumestatic/js/main.js",
+		"/media/sf_andrey/file_formvk/index.html",
+		"/home/andrey/home.ru/resumestatic/sendform.php",
+		"/home/andrey/bckp/tinashop/lastlog.log",
+		"/var/www/stroyinvest.ru/wp-content/themes/investtheme/index.php",
+		"/home/andrey/Загрузки/категории.csv",
+		"/home/andrey/www/tinashop/sftp-config.json",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/inc/storefront-template-functions.php",
+		"/home/andrey/home.ru/mail.php",
+		"/home/andrey/www/tinashop/wp-config.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront-child/functions (1-я копия).php",
+		"/home/andrey/home.ru/shop/wp-config.php",
+		"/home/andrey/home.ru/resume/wp-config.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/content-homepage.php",
+		"/var/www/stroyinvest.ru/wp-content/themes/investtheme/directions.php",
+		"/var/www/stroyinvest.ru/static/index.html",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/functions.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/footer.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/inc/storefront-template-hooks.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/inc/storefront-functions.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-hooks.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/inc/woocommerce/class-storefront-woocommerce.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/inc/class-storefront.php",
+		"/var/www/home.ru/resumestatic/sass/style.sass",
+		"/var/www/home.ru/resumestatic/css/style.css",
+		"/home/andrey/www/tinashop/wp-content/plugins/woocommerce/includes/wc-cart-functions.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/search.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/page.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/loop.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/index.php",
+		"/home/andrey/www/tinashop/wp-content/themes/storefront/single.php",
+		"/var/www/stroyinvest.ru/static/css/main.css",
+		"/home/andrey/www/tinashop/wp-content/plugins/woocommerce/templates/checkout/thankyou.php",
+		"/home/andrey/www/tinashop/wp-content/plugins/woocommerce/templates/checkout/thankyou (1-я копия).php",
+		"/home/andrey/www/tinashop/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php",
+		"/home/andrey/www/tinashop/wp-content/plugins/woocommerce/templates/single-product/tabs/description.php",
+		"/home/andrey/home.ru/shop/wp-content/themes/storefront-child/functions.php",
+		"/home/andrey/home.ru/shop/wp-content/plugins/woocommerce/templates/checkout/thankyou.php",
+		"/home/andrey/home.ru/resumestatic/css/style.css",
+		"/home/andrey/home.ru/jquery/css/style.sass",
+		"/home/andrey/home.ru/shop/wp-content/themes/storefront-child/sftp-config.json",
+		"/home/andrey/2018-07-27/shop-2018-07-27--21-32.sql",
+		"/home/andrey/home.ru/shop/wp-content/themes/storefront/functions.php",
+		"/home/andrey/home.ru/shop/wp-content/themes/storefront-child/style.css",
+		"/home/andrey/www/tinashop/wp-content/plugins/woocommerce/templates/checkout/terms.php",
+		"/home/andrey/home.ru/resumestatic/sass/style.sass",
+		"/home/andrey/home.ru/shop/wp-content/themes/storefront/assets/css/custom/customcss.css",
+		"/home/andrey/home.ru/resume/wp-content/themes/resume/header.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"canva",
+			"foo",
+			"defaultSocial",
+			"event",
+			"content_m",
+			"conta",
+			"header",
+			"%\n",
+			"container",
+			"messages",
+			"md",
+			"-md-",
+			"-sm-",
+			"-md-",
+			"10",
+			"logo",
+			"dark",
+			"ms",
+			"subm",
+			"7",
+			"76",
+			"vko",
+			"75",
+			"modal",
+			"$menu",
+			"fixed",
+			"$v",
+			"json",
+			",",
+			"hov",
+			"ho",
+			"storefront_cart_link",
+			"class=\"count\"",
+			"storefront_cart_link",
+			"storefront_prod",
+			"storefront_header",
+			"header_cart",
+			"cart",
+			"sea",
+			"header",
+			"sear",
+			"product_s",
+			"header",
+			"search",
+			"storefront_header",
+			"wc_add_noti",
+			"woocommerce-me",
+			"woocommerce-m",
+			"woocommerce_m",
+			"add_to_c",
+			"storefront_footer",
+			"footer",
+			"fo",
+			"foo",
+			"sty",
+			"add",
+			"просмотр корзины",
+			"просмотр ко",
+			"css",
+			"<?",
+			"men",
+			"3",
+			"shop",
+			"loop",
+			".main-header-bar",
+			"@media (min-width:769px) {",
+			"@media (min-width:769px) {\\n",
+			"@media (min-width:769px) {\\p",
+			"@media (min-width:769px) {/n",
+			"@media (min-width:769px) {/p",
+			"@media (min-width:769px) {",
+			"@media",
+			"@media (min-width: 769px)",
+			"@media (min-width: 769px)\n?post_type=product:34\n.main-header-bar ",
+			"main-header-bar ",
+			"main-header-bar",
+			"ru",
+			"proj",
+			"over",
+			"px",
+			"align",
+			"z-i",
+			"opac",
+			"z-in",
+			"positio",
+			"z-ind",
+			"z-in",
+			"_active",
+			"menu",
+			"nav-menu",
+			"menu",
+			".menu",
+			"font-we",
+			"id",
+			"phone",
+			"$phone",
+			"6rem",
+			"<i c",
+			"font-we",
+			"222",
+			"about",
+			"font",
+			"z-",
+			"colu",
+			"portf",
+			"120",
+			"calc-re",
+			"handle",
+			"step",
+			"small",
+			"calc",
+			"('.block')",
+			"media",
+			"content",
+			"red",
+			"$$",
+			"btnpump",
+			".content",
+			"fontello",
+			"767",
+			"<i>",
+			"style",
+			"responsive",
+			"poin",
+			"copy",
+			"fb",
+			"li",
+			"ul"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"container-custom",
+			"-lg-",
+			"-md-",
+			"-sm-",
+			"menu_mob",
+			"menu_desktop",
+			";",
+			"__active",
+			"front",
+			"menu",
+			"$",
+			"$(\"#btnpump\")$",
+			"$(\"#btnpump\")",
+			"btnten"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1564,
+								1564
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "layouts/scripts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "report.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/getchartdata.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "getchartdata.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								619
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/andrey/www/home.ru/test/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "getjson.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "getsmoke.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "dbconnect.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "add.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "pumpon.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 53.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

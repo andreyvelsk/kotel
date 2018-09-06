@@ -1,0 +1,121 @@
+﻿html
+{
+  font-size: 10px;
+}
+body {
+  font-size: 14px;
+}
+
+.nav-menu {
+  background-color: #31708f;
+  border-color: #bce8f1;
+  list-style: none;
+  margin: 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+.nav-item a {
+  color: #fff;
+  display: block;
+  padding: 15px 20px;
+  text-decoration: none;
+}
+
+.nav-item a:hover,
+.nav-item a:focus {
+  background-color: #17a2b8;
+}
+
+.container-custom
+{
+  padding: 1rem 5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content
+{
+  margin-bottom: 2rem;
+}
+
+.card {
+  margin-bottom: 3rem;
+}
+
+.card-body{
+  padding: 3rem 1rem;
+}
+
+.camera
+{
+  width: 100%;
+}
+
+.btn
+{
+  font-size: 1.6rem;
+  padding: 2rem;
+  width: 20rem;
+  margin-right: 2rem;
+}
+
+.btn:last-child{
+  margin-right: 0;
+}
+
+
+
+@media (max-width: 767px)
+{
+  .nav-menu{
+    flex-flow: column wrap;
+    justify-content: space-around;
+    padding: 0px;
+  }
+  .nav-item a {
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+
+  .footer
+  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}
+
+.canva{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 575px)
+{
+  .container-custom {
+
+    padding: 1rem 3rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  }
+
+  .footer
+  {
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+  .btn
+  {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+
+}
