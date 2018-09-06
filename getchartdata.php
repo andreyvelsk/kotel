@@ -1,13 +1,15 @@
 <?php
 include 'dbconnect.php';
 
+$interval = $_POST['interval'];
+
 $sql = "
 SELECT value, vdatetime FROM ( 
 SELECT @row := @row +1 AS rownum, value, vdatetime
 FROM (
 SELECT @row :=0) r, value 
 WHERE id_sensor = 1 AND
-vdatetime BETWEEN now()-INTERVAL 50 HOUR AND now()
+vdatetime BETWEEN now()-INTERVAL $interval HOUR AND now()
 ORDER BY vdatetime ASC
 ) tmp
 WHERE rownum MOD 5 = 0

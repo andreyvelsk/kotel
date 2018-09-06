@@ -1,19 +1,22 @@
-function getData() {
-				var json;
-			    $.ajax({
-			        type: "POST",
-			        url: "getchartdata.php",
-			        data: '',
-			        dataType: 'json',
-			        success: function(data) {
-			        	setDataChart(data);
-			        },
-			        error: function(request, status, errorT) {
-			             alert('error func');
-			        }
-			    });
+getData(90);
 
-			}
+function getData(inter) {
+	var json;
+    $.ajax({
+        type: "POST",
+        url: "getchartdata.php",
+        data: {
+        	interval: inter
+        },
+        dataType: 'json',
+        success: function(data) {
+        	setDataChart(data);
+        },
+        error: function(request, status, errorT) {
+             alert('error func');
+        }
+    });
+}
 
 function setDataChart(data){
 
@@ -40,13 +43,12 @@ function setDataChart(data){
         borderColor: [
             'rgba(255,99,132,1)'
         ],
-        borderWidth: 1,
+        borderWidth: 2,
         pointRadius: 0,
-		hoverRadius: 0
+		hoverRadius: 50
     }]
 }
 	};
-
 
 	setChart(config);
 }

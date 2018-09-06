@@ -65,6 +65,12 @@ body {
   margin-right: 0;
 }
 
+.canva{
+  margin-top: 40px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 @media (max-width: 767px)
@@ -86,12 +92,6 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
   }
-}
-
-.canva{
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 @media (max-width: 575px)
@@ -116,6 +116,12 @@ body {
     width: 100%;
     margin-bottom: 1rem;
   }
+
+  .canva{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 }
