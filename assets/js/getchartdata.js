@@ -6,8 +6,7 @@ function getData() {
 			        data: '',
 			        dataType: 'json',
 			        success: function(data) {
-			            json = data;
-			            //console.log(json);
+			        	setDataChart(data);
 			        },
 			        error: function(request, status, errorT) {
 			             alert('error func');
@@ -15,3 +14,44 @@ function getData() {
 			    });
 
 			}
+
+function setDataChart(data){
+
+	var value = [];
+	var vdatetime = [];
+	for(var i in data){
+		value.push(data[i].value);
+		vdatetime.push(data[i].vdatetime);
+	}
+		
+
+	var config = {
+		type: 'line',
+
+		data: {
+    labels: vdatetime,
+    datasets: [{
+        label: 'Температура подачи',
+        fill: false,
+        data: value,
+        backgroundColor: [
+            'rgba(255, 99, 132, 0.2)'
+        ],
+        borderColor: [
+            'rgba(255,99,132,1)'
+        ],
+        borderWidth: 1,
+        pointRadius: 0,
+		hoverRadius: 0
+    }]
+}
+	};
+
+
+	setChart(config);
+}
+
+function setChart(config){
+			var ctx = document.getElementById('myChart').getContext('2d');
+			window.myLine = new Chart(ctx, config);
+};

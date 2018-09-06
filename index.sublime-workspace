@@ -355,103 +355,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 1857,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "layouts/scripts.html",
-			"settings":
-			{
-				"buffer_size": 241,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "report.php",
-			"settings":
-			{
-				"buffer_size": 1650,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/js/getchartdata.js",
-			"settings":
-			{
-				"buffer_size": 349,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "getchartdata.php",
-			"settings":
-			{
-				"buffer_size": 619,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/andrey/www/home.ru/test/js/main.js",
-			"settings":
-			{
-				"buffer_size": 904,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "getjson.php",
-			"settings":
-			{
-				"buffer_size": 603,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "getsmoke.php",
-			"settings":
-			{
-				"buffer_size": 169,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "dbconnect.php",
-			"settings":
-			{
-				"buffer_size": 297,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "add.php",
-			"settings":
-			{
-				"buffer_size": 466,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pumpon.php",
-			"settings":
-			{
-				"buffer_size": 103,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -533,14 +436,22 @@
 	},
 	"expanded_folders":
 	[
-		"/home/andrey/www/home.ru/kotel",
-		"/home/andrey/www/home.ru/kotel/assets",
-		"/home/andrey/www/home.ru/kotel/assets/js",
-		"/home/andrey/www/home.ru/test",
-		"/home/andrey/www/home.ru/test/js"
+		"/home/andrey/www/home.ru/test"
 	],
 	"file_history":
 	[
+		"/home/andrey/www/home.ru/kotel/index.php",
+		"/home/andrey/www/home.ru/test/send.php",
+		"/home/andrey/www/home.ru/kotel/layouts/scripts.html",
+		"/home/andrey/www/home.ru/kotel/report.php",
+		"/home/andrey/www/home.ru/kotel/assets/js/getchartdata.js",
+		"/home/andrey/www/home.ru/kotel/getchartdata.php",
+		"/home/andrey/www/home.ru/test/js/main.js",
+		"/home/andrey/www/home.ru/kotel/getjson.php",
+		"/home/andrey/www/home.ru/kotel/getsmoke.php",
+		"/home/andrey/www/home.ru/kotel/dbconnect.php",
+		"/home/andrey/www/home.ru/kotel/add.php",
+		"/home/andrey/www/home.ru/kotel/pumpon.php",
 		"/home/andrey/www/home.ru/kotel/assets/css/custom.css",
 		"/tmp/xa-tOCm5g/home.sql",
 		"/home/andrey/www/home.ru/nodejs/vue-project-router1/src/pages/Cars.vue",
@@ -570,8 +481,6 @@
 		"/home/andrey/www/home.ru/nodejs/vue-project/src/Car.vue",
 		"/home/andrey/www/home.ru/nodejs/vue-project/src/Counter.vue",
 		"/home/andrey/www/home.ru/nodejs/vue-project/index.html",
-		"/home/andrey/www/home.ru/test/js/main.js",
-		"/home/andrey/www/home.ru/test/send.php",
 		"/home/andrey/www/home.ru/test/dbconnect.php",
 		"/home/andrey/www/home.ru/test/getmessages.php",
 		"/home/andrey/www/home.ru/test/sass/style.sass",
@@ -584,13 +493,11 @@
 		"/home/andrey/www/home.ru/sendvk/test/sendform.php",
 		"/home/andrey/www/home.ru/resume/resumestatic/send.php",
 		"/home/andrey/www/home.ru/resume/resumestatic/sass/style.sass",
-		"/home/andrey/www/home.ru/kotel/index.php",
 		"/home/andrey/www/tinashop/wp-content/themes/storefront-child/functions.php",
 		"/home/andrey/www/tinashop/wp-content/uploads/2018/08/logo.svg",
 		"/home/andrey/www/home.ru/resume/resumestatic/js/main.js",
 		"/home/andrey/www/home.ru/resume/resumestatic/sendform.php",
 		"/home/andrey/www/home.ru/resume/resumestatic/css/style.css",
-		"/home/andrey/www/home.ru/kotel/pumpon.php",
 		"/home/andrey/www/home.ru/sendvk/market/addfromcsv.php",
 		"/home/andrey/www/home.ru/resume/resumestatic/sass/koala-config.json",
 		"/home/andrey/www/home.ru/sendvk/market/number",
@@ -660,15 +567,7 @@
 		"/home/andrey/home.ru/shop/wp-content/themes/storefront-child/functions.php",
 		"/home/andrey/home.ru/shop/wp-content/plugins/woocommerce/templates/checkout/thankyou.php",
 		"/home/andrey/home.ru/resumestatic/css/style.css",
-		"/home/andrey/home.ru/jquery/css/style.sass",
-		"/home/andrey/home.ru/shop/wp-content/themes/storefront-child/sftp-config.json",
-		"/home/andrey/2018-07-27/shop-2018-07-27--21-32.sql",
-		"/home/andrey/home.ru/shop/wp-content/themes/storefront/functions.php",
-		"/home/andrey/home.ru/shop/wp-content/themes/storefront-child/style.css",
-		"/home/andrey/www/tinashop/wp-content/plugins/woocommerce/templates/checkout/terms.php",
-		"/home/andrey/home.ru/resumestatic/sass/style.sass",
-		"/home/andrey/home.ru/shop/wp-content/themes/storefront/assets/css/custom/customcss.css",
-		"/home/andrey/home.ru/resume/wp-content/themes/resume/header.php"
+		"/home/andrey/home.ru/jquery/css/style.sass"
 	],
 	"find":
 	{
@@ -845,350 +744,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1857,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1564,
-								1564
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "layouts/scripts.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 241,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								241,
-								241
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "report.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1650,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								380,
-								380
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "assets/js/getchartdata.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 349,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								215,
-								215
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "getchartdata.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 619,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								619,
-								619
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"incomplete_sync": null,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/andrey/www/home.ru/test/js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 904,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								346,
-								346
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "getjson.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 603,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								231,
-								231
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "getsmoke.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 169,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								119,
-								119
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "dbconnect.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 297,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								83,
-								83
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "add.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 466,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								378,
-								378
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "pumpon.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 103,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								102,
-								102
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				}
 			]
 		}
 	],
