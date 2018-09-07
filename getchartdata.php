@@ -2,8 +2,6 @@
 include 'dbconnect.php';
 
 $interval = $_POST['interval'];
-$startinterval = $_POST['startinterval'];
-
 
 $sql = "
 SELECT value, vdatetime FROM ( 
