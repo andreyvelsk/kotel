@@ -1,3 +1,14 @@
+var $btn3h = $("#btn3h");
+var $btn12h = $("#btn12h");
+
+$btn3h.click(function() {
+	getData(120);
+});
+
+$btn12h.click(function() {
+	getData(180);
+});
+
 getData(90);
 
 function getData(inter) {
