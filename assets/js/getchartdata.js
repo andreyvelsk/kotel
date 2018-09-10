@@ -1,70 +1,88 @@
-var $btn3h = $("#btn3h");
-var $btn12h = $("#btn12h");
+$(function(){
+	var $btn3h = $("#btn3h");
+	var $btn12h = $("#btn12h");
 
-$btn3h.click(function() {
-	getData(120);
-});
+	var request;
 
-$btn12h.click(function() {
-	getData(180);
-});
+	$btn3h.click(function() {
 
-getData(90);
+		getData(3);
+	});
 
-function getData(inter) {
-	var json;
-    $.ajax({
-        type: "POST",
-        url: "getchartdata.php",
-        data: {
-        	interval: inter
-        },
-        dataType: 'json',
-        success: function(data) {
-        	setDataChart(data);
-        },
-        error: function(request, status, errorT) {
-             alert('error func');
-        }
-    });
-}
+	$btn12h.click(function() {
+		getData(12);
+	});
 
-function setDataChart(data){
+	getData(3);
 
-	var value = [];
-	var vdatetime = [];
-	for(var i in data){
-		value.push(data[i].value);
-		vdatetime.push(data[i].vdatetime);
+	function getData(inter) { //интервал в часах
+
+		if (request) {
+	        request.abort();
+	    }
+
+	    request = $.ajax({
+	        type: "POST",
+	        url: "getchartdata.php",
+	        data: {
+	        	interval: inter
+	        },
+	        dataType: 'json'
+	    });
+
+	    request.done(function (response, textStatus, jqXHR){
+	        // Log a message to the console
+	        setDataChart(response);
+	    });
+
+	    request.fail(function (jqXHR, textStatus, errorThrown){
+	        // Log the error to the console
+	        console.error(
+	            "The following error occurred: "+
+	            textStatus, errorThrown
+	        );
+	    });
+
 	}
-		
 
-	var config = {
-		type: 'line',
+	function setDataChart(data){
 
-		data: {
-    labels: vdatetime,
-    datasets: [{
-        label: 'Температура подачи',
-        fill: false,
-        data: value,
-        backgroundColor: [
-            'rgba(255, 99, 132, 0.2)'
-        ],
-        borderColor: [
-            'rgba(255,99,132,1)'
-        ],
-        borderWidth: 2,
-        pointRadius: 0,
-		hoverRadius: 50
-    }]
-}
+		var value = [];
+		var vdatetime = [];
+		for(var i in data){
+			value.push(data[i].value);
+			vdatetime.push(data[i].vdatetime);
+		}
+			
+
+		var config = {
+			type: 'line',
+
+			data: {
+	    labels: vdatetime,
+	    datasets: [{
+	        label: 'Температура подачи',
+	        fill: false,
+	        data: value,
+	        backgroundColor: [
+	            'rgba(255, 99, 132, 0.2)'
+	        ],
+	        borderColor: [
+	            'rgba(255,99,132,1)'
+	        ],
+	        borderWidth: 2,
+	        pointRadius: 0,
+			hoverRadius: 50
+	    }]
+	}
+		};
+
+		setChart(config);
+	}
+
+	function setChart(config){
+				var ctx = document.getElementById('myChart').getContext('2d');
+				window.myLine = new Chart(ctx, config);
 	};
 
-	setChart(config);
-}
-
-function setChart(config){
-			var ctx = document.getElementById('myChart').getContext('2d');
-			window.myLine = new Chart(ctx, config);
-};
+});
