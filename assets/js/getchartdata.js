@@ -31,7 +31,7 @@ $(function(){
 	    });
 
 	    request.done(function (response, textStatus, jqXHR){
-	        // Log a message to the console
+	
 	        setDataChart(response);
 	    });
 
