@@ -1,6 +1,13 @@
 var $status;
 var $btnpump = $("#btnpump");
 var $btnten = $('#btnten');
+var $camera = $('.camera_img');
+
+updateStatus();
+setInterval(function(){
+    updateStatus() // this will run after every 5 seconds
+}, 5000);
+
 
 function updateStatus(){
 $.get( "pumpstatus.php", function( data ) {
@@ -19,13 +26,14 @@ $.get( "pumpstatus.php", function( data ) {
         }
 
 	});
+
+//updateCam();
 }
 
-updateStatus();
-setInterval(function(){
-    updateStatus() // this will run after every 5 seconds
-}, 5000);
 
+function updateCam() {
+	//$camera.html("<img class ='camera' src='cam.jpg'></img>");
+}
 
 $btnpump.click(function () {
 

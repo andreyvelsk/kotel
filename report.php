@@ -2,7 +2,7 @@
 include 'layouts/header.html';
 ?>
 	<div class="container">
-		<button type="button" id="btn3h" class="btn btn-lg">1H</button>
+		<button type="button" id="btn3h" class="btn btn-lg">3H</button>
 		<button type="button" id="btn12h" class="btn btn-lg">12H</button>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js""></script>

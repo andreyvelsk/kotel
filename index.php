@@ -45,7 +45,7 @@ $result = json_decode($json, true);
         </div>
       </div>
       <div class="col-xl-6">
-        <img class ="camera" src="cam.jpg"></img>
+          <img class ="camera" src="cam.jpg"></img>
       </div>
       
     </div>
