@@ -41,6 +41,10 @@ body {
   margin-bottom: 2rem;
 }
 
+.displaysensors {
+  transition: all 0.5s;
+}
+
 .card {
   margin-bottom: 3rem;
 }

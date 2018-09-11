@@ -2,11 +2,19 @@ var $status;
 var $btnpump = $("#btnpump");
 var $btnten = $('#btnten');
 var $camera = $('.camera_img');
+var $sensors = $('.displaysensors');
 
+var request
+
+updateSensors();
+updateCam();
 updateStatus();
 setInterval(function(){
     updateStatus() // this will run after every 5 seconds
 }, 5000);
+setInterval(function(){
+    updateSensors() // this will run after every 5 seconds
+}, 60000);
 
 
 function updateStatus(){
@@ -27,12 +35,35 @@ $.get( "pumpstatus.php", function( data ) {
 
 	});
 
-//updateCam();
 }
 
 
 function updateCam() {
-	//$camera.html("<img class ='camera' src='cam.jpg'></img>");
+	$camera.html("<img class ='camera' src='cam.jpg'></img>");
+}
+
+function updateSensors(){
+	if (request) {
+	        request.abort();
+	    }
+
+	    request = $.ajax({
+	        type: "POST",
+	        url: "getsensors.php",
+	        data: ""
+	    });
+
+	    request.done(function (response, textStatus, jqXHR){	
+	        $sensors.html(response);
+	    });
+
+	    request.fail(function (jqXHR, textStatus, errorThrown){
+	        // Log the error to the console
+	        console.error(
+	            "The following error occurred: "+
+	            textStatus, errorThrown
+	        );
+	    });
 }
 
 $btnpump.click(function () {

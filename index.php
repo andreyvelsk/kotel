@@ -1,7 +1,6 @@
 <?php
 include 'layouts/header.html';
-$json = file_get_contents('http://andreyvelsk.ru:4680/getjson.php');
-$result = json_decode($json, true);
+
 ?>
 
 
@@ -10,43 +9,13 @@ $result = json_decode($json, true);
     <div class="row">
 
       <div class="col-xl-6">
-        <div class="row">
-
-          <?php 
-
-            for ($i=0; $i < count($result); $i++) {
-                ?>
-                  <div class="col-sm-6">
-                    <div class="card">
-                      <div class="card-header bg-info text-white">
-                        <?php
-                        echo $result[$i]['name'];
-                        ?>
-                      </div>
-                      <div class="card-body">
-                        <h1>
-                        <?php
-                        echo $result[$i]['value'];
-                        ?>
-                        </h1>
-                      </div>
-                      <div class="card-footer">
-                        <?php
-                        echo $result[$i]['vdatetime'];
-                        ?>
-                      </div>
-                    </div>
-                  </div>
-                <?php
-
-            }
-          ?>      
+        <div class="displaysensors">
 
         </div>
       </div>
       <div class="col-xl-6">
           <div class="camera_img">
-            <img class ="camera" src="cam.jpg"></img>
+            
           </div>
       </div>
       
