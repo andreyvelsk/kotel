@@ -1,6 +1,6 @@
 <?php
 
-$json = file_get_contents('http://andreyvelsk.ru:4680/getjson.php');
+$json = file_get_contents('getjson.php');
 $result = json_decode($json, true);
 
 			echo "<div class='row'>";
