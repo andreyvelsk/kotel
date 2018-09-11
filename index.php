@@ -1,6 +1,6 @@
 <?php
 include 'layouts/header.html';
-$json = file_get_contents('http://home.ru/kotel/getjson.php');
+$json = file_get_contents('http://andreyvelsk.ru:4680/getjson.php');
 $result = json_decode($json, true);
 ?>
 
@@ -45,7 +45,9 @@ $result = json_decode($json, true);
         </div>
       </div>
       <div class="col-xl-6">
-          <img class ="camera" src="cam.jpg"></img>
+          <div class="camera_img">
+            <img class ="camera" src="cam.jpg"></img>
+          </div>
       </div>
       
     </div>
